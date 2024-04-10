@@ -1,8 +1,9 @@
-
-
 package com.example;
+
 import com.example.Indicavel;
+
 public class Indicacao {
+    
     private Indicavel indicavel;
     private String categoria;
 
